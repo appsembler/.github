@@ -1,0 +1,7 @@
+# see: https://appsembler.atlassian.net/wiki/spaces/ED/pages/2227503161/CODEOWNERS
+
+
+# Default owner for the GitHub organization
+# Each repository should have a specific owner.
+
+* @thraxil
